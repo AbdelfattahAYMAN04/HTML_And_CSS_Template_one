@@ -195,7 +195,7 @@ body {
 /* end Header */
 /* start landing section */
 .landing {
-    background-image: url(/image/pexels-pixabay-355747.jpg);
+    background-image: url(../image/pexels-pixabay-355747.jpg);
     background-size: cover;
     height: calc(100vh - 64px);
     position: relative;
@@ -554,6 +554,7 @@ body {
     color: var(--main-color);
     font-weight: bold;
 }
+
 
 
 /* end footer */
